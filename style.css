@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#some{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 86.4px;
+    text-align: center;
+    text-underline-position: from-font;
+    width: 1237px; 
+    height: 86px;
+    padding-top:24px ;
+    padding-left: 341px;
+    margin-bottom: 37px;
+    
+}
+#images{
+    padding-left: 55px;
+    padding-bottom: 12px;
+}
+#stary{
+    color: #000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 200px;
+    
+}
+#look{
+    color: #414651;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    weight: 568px;
+    height: 446px;
+    
+}
